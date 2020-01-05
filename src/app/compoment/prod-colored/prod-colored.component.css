@@ -1,0 +1,844 @@
+mat-toolbar
+{
+    width: 100%;
+    background-color: white;
+    height: 10%;
+}
+.header
+{
+    width: 100%;
+     height: 10%; 
+}
+.logo
+{
+    top: 3px;
+   width: 200px;
+    height: 70px
+}
+.shop-bag
+{
+    width:50px;
+    height:50px;
+    margin-left: 70%;
+    top:3px;
+
+}
+.peson
+{
+    width:40px;
+    height:40px;
+    margin-left:12px;
+}
+.box
+{
+border: 1px solid skyblue;
+margin-left:5px;
+padding: 12px;
+border-radius: 20px;
+font-size: 14px;
+color:#0F5EEA;
+}
+.boxs
+{
+    width:26px;
+    height:30px;
+  
+}
+.pue{
+  width:26px;
+  height:20px;
+}
+.navbar-contact
+{
+  margin-top:20px;
+  width: 90%;
+  height: 5vh;
+  
+}
+.nav
+{
+   margin-left: 5vh;
+    margin-top:10px ;
+    font-size: 12px;
+    font-weight: 700;
+    text-align: left;
+    font-family: 'Roboto'sans-serif;
+    color:#808080;
+
+}
+.Contact
+{
+  
+  margin-top:10px ;
+  margin-left: 47vh;
+    width:70%;
+    height: 20px;
+    font-family: 'Roboto'sans-serif;
+    color:#808080;
+    font-weight: 500;
+    font-size: 12px;
+}
+.phone
+{
+    width:9px;
+    height: 9px;
+}
+a{
+    margin-left:5px;
+    width:18px;
+    height: 19px;
+}
+.Address
+{
+    margin-left:12px;
+    width: 20px;
+    height: 20px;
+  
+}
+ .col-part
+{
+margin-left: 20vh;
+height: 20vh;
+border-radius: 12px;
+margin-top: 45px;
+margin-left: 2vh;
+/* background: peru; */
+} 
+
+.body_conta{
+  margin-left: 5vh;
+    width:90%;
+    border: 1px solid #D4D5D9;
+    height:37vh;
+    margin-top:35px;
+    border-radius: 12px;
+}
+.photo{
+    width:90vh;
+    height: 30vh;
+    margin-left: 20vh;
+}
+
+.share
+{
+    width:18px;
+   
+}
+
+.pannel-defult
+{
+    margin-top: 2px;
+    text-align: center;
+    color: white;
+    width: 45px;
+    height: 20px;background:rgb(9, 138, 14) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px;
+}
+.star
+{
+    width:10px;
+    height: 10px;
+}
+.device
+{
+    width:9px;
+    height:17px ;
+    margin-left: 10px;
+}
+.laptop{
+    width:26px;
+    height: 16px;
+    margin-left:10px;
+
+} 
+.monitor{
+    width:17px;
+    height: 17px;
+    margin-left: 10px;
+} 
+
+.search-container  
+{
+    margin-left:6vh;
+    margin-top:6%;
+    width: 55%;
+    height: 33px;
+  box-shadow: 0px 6px 11px #0000000A;
+  border-radius: 8px;
+}
+.ser
+{
+    width: 75%;  
+    text-align: left;
+    /* box-shadow: 1px 1px 1px #0000002B; */
+    
+}
+
+  .but{
+    background-color:#BED6FF;
+    height: 32px;
+    border-color: #BED6FF;;
+    color: white;
+  
+  }
+.pannel-defult
+{
+  margin-top: 2px;
+  text-align: center;
+  color: white;
+  width: 45px;
+  height: 20px;background:rgb(9, 138, 14) 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px;
+}
+.star
+{
+  width:10px;
+  height: 10px;
+}
+.device
+{
+  width:9px;
+  height:17px ;
+  margin-left: 10px;
+}
+.laptop{
+  width:26px;
+  height: 16px;
+  margin-left:10px;
+
+} 
+
+
+.tab
+{
+    margin-left: 4vh;
+  font-size: 12px;
+  color: #A8B3C6;
+  width:196px ;
+  height: 17px;
+
+}
+.nav-bar{
+  width:600px;
+  height:40px;
+  margin-left: 28%;
+  margin-top: 1%;
+}
+.all{
+ width: 34px;
+  height: 24px;
+  text-align: center;
+  font-family: 'Roboto' sans-serif;
+ font-weight: 600;
+  color: #0F5EEA;
+  opacity: 1;
+}
+.mac
+{
+  margin-left: 45px;
+  width: 45px;
+  height: 24px;
+  text-align: left;
+  color: #000000;
+  font-family: 'Roboto' sans-serif;
+  font-weight: 600;
+}
+.phone
+{
+  margin-left: 45px;
+  width: 45px;
+  height: 22px;
+  text-align: left;
+  color: #000000;
+  font-family: 'Roboto' sans-serif;
+  font-weight: 600;
+}
+.Pad{
+  margin-left: 45px;
+  width: 45px;
+  height: 24px;
+  text-align: left;
+  color: #000000;
+  font-family: 'Roboto' sans-serif;
+  font-weight: 600;
+}
+.Access
+{
+  margin-left: 45px;
+  width: 45px;
+  height: 24px;
+  text-align: left;
+  color: #000000;
+  font-family: 'Roboto' sans-serif;
+  font-weight: 600;
+}
+.filter-set
+{
+    margin-top: 60px;
+    height: 50px;
+    width: 20px;
+    background-color: blue;
+}
+.product-grid-3
+{
+    margin-top: 25%;
+    margin-left:0%;
+    width: 30vh;
+    height: 100%;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    
+    border-radius: 8px;
+}
+input
+{
+    margin-left: 25px;
+}
+ .Filter
+{
+    text-align: left;
+    font-family: 'Roboto' sans-serif;
+    font-weight: 700;
+    color: #000000;
+}
+.rset
+{
+    margin-left: 15vh;
+    text-align: left;
+    font-family: 'Roboto' sans-serif;
+    font-weight: 500;
+    color: #FF4343;
+}
+.show
+{
+    margin-top:12px;
+    text-align: left;
+}
+.tack
+{
+    margin-left: 15px;
+width: 73px;
+height: 22px;
+text-align: left;
+font-family: 'Roboto' sans-serif;
+font-weight: 500;
+font-size: 15px;
+letter-spacing: 0;
+color: #22262A;
+opacity: 0.74
+}
+
+.product-name
+{
+    margin-left: 15px;
+width: 132px;
+height: 22px;
+text-align: left;
+font-family: 'Roboto' sans-serif;
+font-size: 15px;
+letter-spacing: 0;
+color: #000000;
+opacity: 0.64;
+}
+.product-grid
+{
+    margin-top: 25%;
+    width: 36vh;
+    height: 80%;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 4px #0000002B;
+    border-radius: 8px;
+}
+.add-on
+{
+    font-size: 15px;
+    margin-top:20%;
+text-align: left;
+font-family:' Roboto' sans-serif;
+letter-spacing: 0.18px;
+color: #000000;
+opacity: 0.64;
+}
+.prize
+{
+    margin-left: 10px;
+    color: #000000;
+}
+span
+{
+    width: 57px;
+    height: 19px;
+    text-align: left;
+    text-decoration: line-through;
+    font-family: 'Roboto' sans-serif ;
+    letter-spacing: 0;
+    color: #000000;
+    opacity: 0.34;
+}
+.off
+{
+    width: 54px;
+height: 19px;
+text-align: left;
+font-family: ' Roboto' sans-serif;
+letter-spacing: 0;
+color: #FF601E;
+opacity: 1;
+}
+
+.deli
+{
+    font-size: 15px;
+    margin-left: 10px;
+    width: 50vh;
+    height: 17px;
+    color: #878787;
+    opacity: 1;
+}
+.add-to-cart
+{
+    font-size: 12px;
+    font-weight: 600;
+    float: right;
+   width: 80px;
+    height: 30px;
+    background: #0F5EEA 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 4px #0000004D;
+    border-radius: 4px;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    text-align: center;
+}
+.pic-2
+{
+    margin-top: 13vh;
+    margin-left: 25%;
+}
+.pic-1
+{
+    margin-top: 5vh;
+    margin-left: 30%;
+    width: 100px;
+    height: 100px;
+}
+.Contact-2
+{
+    margin-left: 30%;
+    width: 69%;
+    height: 80%;
+}
+.add-on-1
+{
+    margin-top:15%;
+    text-align: left;
+    font-family:' Roboto' sans-serif;
+     font-size: 12px;
+     font-weight: 500;
+    color: #000000;
+    opacity: 0.64;
+}
+.product-grid-1
+{
+    margin-top:65vh;
+    width:35vh;
+    height: 53vh;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 4px #0000002B;
+    border-radius: 8px;
+}
+.prize-1
+{
+    font-size: 12px;
+    font-weight: 500;
+    margin-left:10px;
+    color: #000000;
+}
+.del
+{
+    font-size: 12px;
+    font-weight: 500;
+    margin-left: 10px;
+    width: 150px;
+    height: 30px;
+    color: #878787;
+    opacity: 1;
+} 
+ .Contact-3
+{
+    margin-top: 5%;
+    margin-left: 9%;
+    width: 80%;
+    height: 30rem;
+}
+.Recent
+{
+    width: 196px;
+    height: 34px;
+    text-align: left;
+    font-family: 'Roboto' sans-serif;
+    font-size: 125%;
+    font-weight: 600;
+    color: #000000;
+    opacity: 0.74;
+}
+.arrow
+{
+ margin-left: 80%;
+ color: white;
+}
+.arr-right
+{
+    width: 48px;
+    height: 48px;
+    background:whitesmoke;
+    border: 1px solid #D4D5D9;
+    border-radius: 24px;
+}
+.arr-back
+{
+    width: 148px;
+    height: 148px;
+    background: #0F5EEA 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 24px;
+    opacity: 1;
+    
+}
+.product-grid-2
+{
+  margin-top: 15%;
+    width: 100%;
+    height: 90%;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 4px #0000002B;
+    border-radius: 8px;
+}
+.pic-3
+{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.add-on
+{
+    margin-top:15%;
+    text-align: left;
+    font-family:' Roboto' sans-serif;
+     font-size: 16px;
+     font-weight: 500;
+    color: #000000;
+    opacity: 0.64;
+}
+.contain-box
+{
+    width: 100%;
+     height:40vh;
+     background: #F1F6FF 0% 0% no-repeat padding-box;
+     box-shadow: 0px 1px 4px #0000001F;
+     border-radius: 8px;
+
+}
+.contain1{
+    padding-top: 10vh ;
+    padding-left: 40vh;
+    width: 100%;
+    height: 33px;   
+    font-family:  sans-serif;
+ font-size: 40px;
+    color: #0F5EEA;
+  
+}
+.default
+{
+   width: 45rem;   
+    height: 23px;
+    margin-top: 80px;
+    margin-left: 40vh;
+}
+ 
+.device-icon
+{
+    width: 20px;
+    height: 23px;
+    margin-left: 15vh;
+}
+.device-monitor
+{
+    width: 20px;
+    height: 23ppx;
+    margin-left: 15vh;
+}
+.device-laptop
+{
+    width: 20px;
+    height: 23px;
+    margin-left: 15vh;
+}
+.device-arm
+{
+    width: 20px;
+    height: 23px;
+    margin-left: 15vh;
+}
+.device-micro
+{
+    width: 20px;
+    height: 23px;
+    margin-left: 15vh;
+}
+.Req-button
+{
+    width: 190px;
+    height: 40px;
+    margin-left: 75vh;
+    margin-top: 4vh;
+    background: #0F5EEA 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 4px #0000004D;
+    border-radius: 4px;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 5px;
+} 
+.connect
+{
+    width: 90%;
+    height: 90%;
+    margin-left: 10vh;
+    margin-top:8vh ;
+}
+.qustion
+{
+    margin-left: 70vh;
+    margin-top: 90vh;
+   width: 500px;
+    height: 43px;
+    text-align: center;
+    font-family: 'Roboto' sans-serif;
+    font-size: 30px;
+    letter-spacing: 0.9px;
+    color: #000000;
+    opacity: 0.87;
+}
+.Supp
+{
+    margin-left:40%;
+     width: 500px;
+    height: 43px;
+    font-family: 'Roboto' sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0.9px;
+    color: #000000;
+    opacity: 0.87;
+}
+.whatapp
+{
+    margin-top: 5vh;
+    margin-left:85vh;
+    width: 70px;
+    height: 70px;
+}
+.footer
+{
+    margin-top: 5vh;
+    width: 99%;
+    height: 550px;
+    box-shadow: 0px -2px 22px #0000001F;
+    opacity: 1;
+}
+.Icon-box
+{
+    margin-top: 70px;
+    margin-left: 20vh;
+    width: 90px;
+    height: 90px;
+}
+.clint
+{
+    width: 188px;
+    height: 34px;
+    margin-top: 5px;
+    margin-left: 16vh;
+    font-family: 'Roboto' sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0.9px;
+    color: #000000;
+}
+.boxss
+{
+    margin-top: 7px;
+    margin-left: 20vh;
+    width: 90px;
+    height: 90px;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 36px;
+    opacity: 1;
+}
+.pune
+{
+    margin-top: 4px;
+    width: 50px;
+    height: 50px;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 36px;
+    opacity: 1;
+}
+.name
+{
+    margin-left: 21vh;
+    width: 45px;
+    height: 24px;
+    text-align: left;
+    font-family: 'Roboto' sans-serif;
+    font-size: 15px;
+    letter-spacing: 0;
+    color: #0F5EEA;
+    opacity: 0.74;
+}
+.us
+{
+    margin-top: 10vh;
+  
+    
+}
+.folw-us
+{
+   width: 78px;
+    height: 22px;
+    text-align: left;
+    font-family: 'Roboto' sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0;
+    color: #000000;
+    opacity: 0.87;
+}
+.page
+{
+    margin-top: 2vh;
+    width: 300px;
+    height: 80px;
+    text-align: left;
+    font-family: 'Roboto' sans-serif;
+    font-size: 12px;
+    letter-spacing: 0;
+    color: #000000;
+    opacity: 0.74;
+}
+.face
+{
+    margin-top: 0vh;
+    width: 10px;
+    height: 15px;
+    background: #385C8E 0% 0% no-repeat padding-box;
+   opacity: 1;
+  
+}
+.twitter
+{
+    margin-top: 0vh;
+    margin-left: 3vh;
+    width: 10px;
+    height: 15px;
+    background: #03A9F4 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.link{
+ 
+    width: 99px;
+    height: 22px;
+    text-align: left;
+    font-family: 'Roboto' sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0;
+    color: #000000;
+    opacity: 0.87;
+}
+.service
+{
+    margin-left: 15vh;
+    width: 99px;
+    height: 22px;
+    text-align: left;
+    font-family: 'Roboto' sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0;
+    color: #000000;
+    opacity: 0.87;
+}
+.ab-us
+{
+
+    width: 99px;
+    height: 22px;
+    text-align: left;
+    font-family: 'Roboto' sans-serif;
+    font-size: 14px;
+    letter-spacing: 0;
+    color: #000000;
+    opacity: 0.87;
+}
+.pay
+{
+    margin-left: 19vh;
+    width: 99px;
+    height: 22px;
+    text-align: left;
+    font-family: 'Roboto' sans-serif;
+    font-size: 14px;
+   letter-spacing: 0;
+    color: #000000;
+    opacity: 0.87;
+}
+.ship
+{
+    margin-left: 18vh;
+    width: 99px;
+    height: 22px;
+    text-align: left;
+    font-family: 'Roboto' sans-serif;
+    font-size: 14px;
+   letter-spacing: 0;
+    color: #000000;
+    opacity: 0.87;
+
+}
+.contact-us
+{
+    
+    width: 78px;
+    height: 22px;
+    text-align: left;
+    font-family: 'Roboto' sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0;
+    color: #000000;
+    opacity: 0.87;
+}
+.act
+{
+    margin-top: 10vh;
+}
+.phone-no
+{
+    font-family: 'Roboto' sans-serif;
+    font-size: 12px;
+}
+.right
+{
+   
+    padding-top: 3vh;
+    margin-left: 70vh;
+    text-align: left;
+    font-family: 'Roboto' sans-serif;
+    font-size: 13px;
+
+}
+.card
+{
+    width:20vh;
+    height: 10vh;
+}
